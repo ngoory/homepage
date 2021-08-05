@@ -1,0 +1,11 @@
+site_name: Hyunwoo Na Personal Homepage
+
+plugins:
+    - search
+
+markdown_extensions:
+    - attr_list
+
+nav:
+        - 'Home' : index.md
+        - 'Profile': about.md
